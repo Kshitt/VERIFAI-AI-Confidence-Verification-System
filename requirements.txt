@@ -1,0 +1,7 @@
+gradio
+groq
+sentence-transformers
+transformers
+torch
+scikit-learn
+numpy
